@@ -189,15 +189,6 @@ body {
     z-index: 10;
 
   }
- label[for="nav-toggle"] {
-    position: absolute;
-    right: 15px;
-    top: 15px;
-    width: 30px;
-    height: 30px;
-    z-index: 20;
-    cursor: pointer;
-  }
   /* Hidden checkbox - positioned off screen */
   #nav-toggle {
     display: none;
@@ -436,4 +427,5 @@ img {
   display: block; 
   max-width: 100%; 
   height: auto; 
+
 }
